@@ -1,0 +1,470 @@
+[
+  {
+    "id": "c001",
+    "name": "Rajesh Kumar Sharma",
+    "party": "BJP",
+    "partyId": "bjp",
+    "constituency": "New Delhi",
+    "state": "Delhi",
+    "type": "Lok Sabha",
+    "age": 52,
+    "gender": "Male",
+    "education": "MBA, Delhi University",
+    "educationDetails": [
+      {"degree": "MBA – Marketing & Finance", "institution": "Delhi University, Delhi", "year": "1995"},
+      {"degree": "B.Com (Hons)", "institution": "Sri Ram College of Commerce, Delhi", "year": "1993"}
+    ],
+    "profession": "Politician & Businessman",
+    "experience": "15 years in politics, Former MLA 2009-2019",
+    "assets": "₹4.2 Crore",
+    "liabilities": "₹0.8 Crore",
+    "netAssets": "₹3.4 Crore",
+    "assetBreakdown": [
+      {"item": "Immovable Property (Delhi)","value": "₹2.8 Cr"},
+      {"item": "Vehicles", "value": "₹18 L"},
+      {"item": "Bank Deposits", "value": "₹62 L"},
+      {"item": "Other Assets", "value": "₹22 L"}
+    ],
+    "criminalCases": 0,
+    "criminalDetails": [],
+    "winProbability": 68,
+    "previousWins": 2,
+    "electionHistory": [
+      {"year": 2024, "constituency": "New Delhi", "result": "Contested", "votes": 82410, "margin": 14200},
+      {"year": 2019, "constituency": "New Delhi MLA", "result": "Won", "votes": 56200, "margin": 8900},
+      {"year": 2014, "constituency": "New Delhi MLA", "result": "Won", "votes": 48100, "margin": 5300}
+    ],
+    "attendance": 82,
+    "questionsRaised": 47,
+    "debatesParticipated": 23,
+    "keyIssues": ["Infrastructure","Employment","Anti-corruption"],
+    "manifesto": [
+      "Develop 500km new metro network in Delhi",
+      "Create 2 lakh jobs through MSME promotion",
+      "Zero-tolerance anti-corruption drive",
+      "Smart city infrastructure in all Delhi districts",
+      "24x7 piped water supply to all households"
+    ],
+    "projects": [
+      {"name": "Delhi Infrastructure Project", "budget": "₹420 Cr", "status": "Completed", "impact": "12 flyovers built, 40% traffic reduction"},
+      {"name": "MSME Employment Drive", "budget": "₹80 Cr", "status": "In Progress", "impact": "18,000 jobs created so far"},
+      {"name": "Anti-Corruption Cell", "budget": "₹12 Cr", "status": "Completed", "impact": "340 cases registered, 89% disposal rate"}
+    ],
+    "bio": "Former Mayor of Delhi, known for urban infrastructure projects and transparent governance. Led multiple civic reforms during his tenure.",
+    "aiSummary": "Rajesh Kumar Sharma has a strong infrastructure and employment focus. His legislative performance (82% attendance, 47 questions) is above average. Zero criminal cases and moderate asset disclosure build public trust. Primary risk factor: 2024 margin is narrower than 2019.",
+    "aiConfidence": "High",
+    "publicRating": 3.8,
+    "totalRatings": 1240,
+    "newsMentions": [
+      {"headline": "Sharma inaugurates Delhi flyover project worth ₹420 crore", "source": "Times of India", "date": "2024-03-15", "sentiment": "positive"},
+      {"headline": "New Delhi MP raises questions on Metro expansion in Parliament", "source": "Hindustan Times", "date": "2024-02-08", "sentiment": "neutral"},
+      {"headline": "Sharma's MSME drive generates 18,000 jobs in NCR", "source": "Economic Times", "date": "2024-01-22", "sentiment": "positive"}
+    ]
+  },
+  {
+    "id": "c002",
+    "name": "Priya Nair Menon",
+    "party": "INC",
+    "partyId": "inc",
+    "constituency": "New Delhi",
+    "state": "Delhi",
+    "type": "Lok Sabha",
+    "age": 44,
+    "gender": "Female",
+    "education": "LLB, Jawaharlal Nehru University",
+    "educationDetails": [
+      {"degree": "LLB – Constitutional Law", "institution": "Jawaharlal Nehru University, Delhi", "year": "2003"},
+      {"degree": "BA Political Science (Hons)", "institution": "Lady Shri Ram College, Delhi", "year": "2000"}
+    ],
+    "profession": "Lawyer & Social Activist",
+    "experience": "10 years in social activism, First-time candidate",
+    "assets": "₹1.8 Crore",
+    "liabilities": "₹0.3 Crore",
+    "netAssets": "₹1.5 Crore",
+    "assetBreakdown": [
+      {"item": "Residential Property (Kerala)", "value": "₹1.1 Cr"},
+      {"item": "Bank Deposits", "value": "₹42 L"},
+      {"item": "Investments", "value": "₹28 L"}
+    ],
+    "criminalCases": 0,
+    "criminalDetails": [],
+    "winProbability": 22,
+    "previousWins": 0,
+    "electionHistory": [
+      {"year": 2024, "constituency": "New Delhi", "result": "Contested", "votes": 26100, "margin": -56310}
+    ],
+    "attendance": 0,
+    "questionsRaised": 0,
+    "debatesParticipated": 0,
+    "keyIssues": ["Women Safety","Education","Healthcare"],
+    "manifesto": [
+      "100 safe city zones for women in Delhi",
+      "Free legal aid to marginalised communities",
+      "Universal healthcare access for Delhi residents",
+      "Quality government schools in every ward",
+      "Open data governance and RTI strengthening"
+    ],
+    "projects": [
+      {"name": "Legal Aid Camps", "budget": "₹2 Cr", "status": "Completed", "impact": "4,200 underprivileged citizens given free legal aid"},
+      {"name": "Women Safety Awareness Drive", "budget": "₹50 L", "status": "Completed", "impact": "60 colleges, 18,000 women trained"}
+    ],
+    "bio": "Human rights lawyer turned politician, championing marginalized communities for over a decade. Known for pro-bono legal work and women's rights advocacy.",
+    "aiSummary": "Priya Nair Menon brings strong grassroots credibility as a lawyer-activist. First-time candidate with no legislative track record — her strength lies in social capital and issue-based campaigning. Low asset declaration signals genuine public-service motivation.",
+    "aiConfidence": "Medium",
+    "publicRating": 4.1,
+    "totalRatings": 820,
+    "newsMentions": [
+      {"headline": "INC fields lawyer-activist Priya Menon for New Delhi seat", "source": "The Hindu", "date": "2024-03-01", "sentiment": "neutral"},
+      {"headline": "Menon's legal aid camps reach 4,200 families in Delhi slums", "source": "Indian Express", "date": "2024-01-14", "sentiment": "positive"}
+    ]
+  },
+  {
+    "id": "c003",
+    "name": "Amit Tiwari",
+    "party": "AAP",
+    "partyId": "aap",
+    "constituency": "New Delhi",
+    "state": "Delhi",
+    "type": "Lok Sabha",
+    "age": 38,
+    "gender": "Male",
+    "education": "B.Tech, IIT Delhi",
+    "educationDetails": [
+      {"degree": "B.Tech – Computer Science", "institution": "IIT Delhi", "year": "2008"}
+    ],
+    "profession": "Former Software Engineer, Politician",
+    "experience": "8 years, Former Councilor",
+    "assets": "₹92 Lakh",
+    "liabilities": "₹15 Lakh",
+    "netAssets": "₹77 Lakh",
+    "assetBreakdown": [
+      {"item": "Residential Flat (Delhi)", "value": "₹68 L"},
+      {"item": "Bank Deposits", "value": "₹14 L"},
+      {"item": "Vehicle", "value": "₹10 L"}
+    ],
+    "criminalCases": 0,
+    "criminalDetails": [],
+    "winProbability": 10,
+    "previousWins": 0,
+    "electionHistory": [
+      {"year": 2024, "constituency": "New Delhi", "result": "Contested", "votes": 12600, "margin": -69810},
+      {"year": 2020, "constituency": "New Delhi Ward 42", "result": "Won", "votes": 8400, "margin": 2100}
+    ],
+    "attendance": 88,
+    "questionsRaised": 12,
+    "debatesParticipated": 8,
+    "keyIssues": ["Pollution","Water","Education"],
+    "manifesto": [
+      "Plant 2 lakh trees in Delhi by 2026",
+      "Complete Yamuna cleanup in 3 years",
+      "Free WiFi in all government schools",
+      "Expand Mohalla Clinic network across NCR",
+      "Zero single-use plastic in Delhi by 2027"
+    ],
+    "projects": [
+      {"name": "Green Delhi Campaign", "budget": "₹8 Cr", "status": "In Progress", "impact": "82,000 trees planted in East Delhi"},
+      {"name": "School WiFi Initiative", "budget": "₹3 Cr", "status": "Completed", "impact": "240 government schools connected"}
+    ],
+    "bio": "IIT graduate who left a corporate career to serve public. Led mohalla clinic initiative in East Delhi. Tech-focused approach to urban governance.",
+    "aiSummary": "Amit Tiwari's IIT background gives him strong technocratic credibility. His ward-level work demonstrates execution capability. Win probability is low in this constituency but his environmental and tech agenda resonates with young urban voters.",
+    "aiConfidence": "High",
+    "publicRating": 3.6,
+    "totalRatings": 540,
+    "newsMentions": [
+      {"headline": "AAP's Tiwari completes 82,000-tree drive in East Delhi", "source": "Times of India", "date": "2024-02-20", "sentiment": "positive"},
+      {"headline": "Ex-IIT engineer contests Parliament seat on environment plank", "source": "Deccan Herald", "date": "2024-01-05", "sentiment": "neutral"}
+    ]
+  },
+  {
+    "id": "c004",
+    "name": "Sunita Devi Yadav",
+    "party": "SP",
+    "partyId": "sp",
+    "constituency": "Lucknow",
+    "state": "Uttar Pradesh",
+    "type": "Lok Sabha",
+    "age": 48,
+    "gender": "Female",
+    "education": "MA Political Science, Lucknow University",
+    "educationDetails": [
+      {"degree": "MA – Political Science", "institution": "Lucknow University", "year": "1999"},
+      {"degree": "BA (Hons)", "institution": "Isabella Thoburn College, Lucknow", "year": "1997"}
+    ],
+    "profession": "Politician & Farmer",
+    "experience": "12 years, Two-time MLA",
+    "assets": "₹2.6 Crore",
+    "liabilities": "₹0.4 Crore",
+    "netAssets": "₹2.2 Crore",
+    "assetBreakdown": [
+      {"item": "Agricultural Land (UP)", "value": "₹1.8 Cr"},
+      {"item": "Residential Property", "value": "₹52 L"},
+      {"item": "Bank Deposits", "value": "₹28 L"}
+    ],
+    "criminalCases": 1,
+    "criminalDetails": [{"section": "IPC 107", "description": "Preventive detention during 2018 agitation", "status": "Pending", "year": 2018}],
+    "winProbability": 45,
+    "previousWins": 2,
+    "electionHistory": [
+      {"year": 2024, "constituency": "Lucknow", "result": "Contested", "votes": 198000, "margin": -42000},
+      {"year": 2017, "constituency": "Bakshi Ka Talab MLA", "result": "Won", "votes": 72000, "margin": 14000},
+      {"year": 2012, "constituency": "Bakshi Ka Talab MLA", "result": "Won", "votes": 64000, "margin": 9200}
+    ],
+    "attendance": 79,
+    "questionsRaised": 38,
+    "debatesParticipated": 19,
+    "keyIssues": ["Farmer welfare","OBC rights","Women empowerment"],
+    "manifesto": [
+      "Kisan Karj Mukti — complete farm loan waiver",
+      "OBC sub-categorisation implementation",
+      "Women self-help groups in every panchayat",
+      "MSP guarantee for all 23 kharif crops",
+      "Rural road connectivity under PMGSY"
+    ],
+    "projects": [
+      {"name": "Kisan Sahayata Camp", "budget": "₹6 Cr", "status": "Completed", "impact": "14,000 farmers got debt relief counselling"},
+      {"name": "Mahila SHG Network", "budget": "₹4 Cr", "status": "In Progress", "impact": "820 self-help groups formed in Lucknow district"}
+    ],
+    "bio": "Grassroots leader from agricultural background who fought for land rights and OBC reservations. Known for her accessibility to constituents.",
+    "aiSummary": "Sunita Devi Yadav is a credible OBC-farmer voice with two legislative wins. One pending criminal case (preventive detention) is a concern but context suggests political motivation. Strong ground network. Faces tough contest against incumbent BJP.",
+    "aiConfidence": "Medium",
+    "publicRating": 3.9,
+    "totalRatings": 1820,
+    "newsMentions": [
+      {"headline": "SP candidate Sunita Yadav holds farmer debt-relief camp in Lucknow", "source": "Navbharat Times", "date": "2024-03-10", "sentiment": "positive"},
+      {"headline": "Yadav demands OBC sub-categorisation in Parliament session", "source": "The Hindu", "date": "2024-02-14", "sentiment": "neutral"}
+    ]
+  },
+  {
+    "id": "c005",
+    "name": "Vikram Chandra Gupta",
+    "party": "BJP",
+    "partyId": "bjp",
+    "constituency": "Lucknow",
+    "state": "Uttar Pradesh",
+    "type": "Lok Sabha",
+    "age": 55,
+    "gender": "Male",
+    "education": "B.Com, Agra University",
+    "educationDetails": [
+      {"degree": "B.Com", "institution": "Agra University", "year": "1990"}
+    ],
+    "profession": "Politician & Businessman",
+    "experience": "20 years, Former Cabinet Minister",
+    "assets": "₹12.4 Crore",
+    "liabilities": "₹1.2 Crore",
+    "netAssets": "₹11.2 Crore",
+    "assetBreakdown": [
+      {"item": "Immovable Property", "value": "₹8.6 Cr"},
+      {"item": "Business Assets", "value": "₹2.4 Cr"},
+      {"item": "Vehicles", "value": "₹62 L"},
+      {"item": "Investments", "value": "₹78 L"}
+    ],
+    "criminalCases": 0,
+    "criminalDetails": [],
+    "winProbability": 55,
+    "previousWins": 3,
+    "electionHistory": [
+      {"year": 2024, "constituency": "Lucknow", "result": "Contested", "votes": 240000, "margin": 42000},
+      {"year": 2019, "constituency": "Lucknow", "result": "Won", "votes": 220000, "margin": 76000},
+      {"year": 2014, "constituency": "Lucknow", "result": "Won", "votes": 198000, "margin": 52000}
+    ],
+    "attendance": 74,
+    "questionsRaised": 28,
+    "debatesParticipated": 14,
+    "keyIssues": ["National security","Industrial growth","Ram Mandir development"],
+    "manifesto": [
+      "Lucknow industrial corridor expansion",
+      "Ram Mandir tourism infrastructure",
+      "Smart city Phase-2 implementation",
+      "Defence manufacturing hub in UP",
+      "Highway connectivity to Ayodhya"
+    ],
+    "projects": [
+      {"name": "Lucknow Industrial Corridor", "budget": "₹2200 Cr", "status": "In Progress", "impact": "14 industries allotted land, 8,200 projected jobs"},
+      {"name": "Ram Mandir Tourism Infra", "budget": "₹380 Cr", "status": "Completed", "impact": "Airport expansion, 3 new hotels, 40L tourists in 2024"}
+    ],
+    "bio": "Senior BJP leader and former Commerce Minister. Oversaw major industrial corridors in UP. Three-time winner from Lucknow.",
+    "aiSummary": "Vikram Chandra Gupta is the strong incumbent with three consecutive wins. High asset declaration but no criminal cases. Below-average attendance (74%) is a weakness. Industrial and infrastructure record is his strongest card.",
+    "aiConfidence": "High",
+    "publicRating": 3.5,
+    "totalRatings": 2140,
+    "newsMentions": [
+      {"headline": "Gupta inaugurates Phase-1 of Lucknow Industrial Corridor", "source": "Economic Times", "date": "2024-03-20", "sentiment": "positive"},
+      {"headline": "MP Gupta's attendance record questioned by opposition", "source": "Indian Express", "date": "2024-01-30", "sentiment": "negative"}
+    ]
+  },
+  {
+    "id": "c006",
+    "name": "Ananya Chakraborty",
+    "party": "TMC",
+    "partyId": "tmc",
+    "constituency": "Kolkata North",
+    "state": "West Bengal",
+    "type": "Lok Sabha",
+    "age": 41,
+    "gender": "Female",
+    "education": "MA Economics, Presidency University",
+    "educationDetails": [
+      {"degree": "MA – Economics", "institution": "Presidency University, Kolkata", "year": "2005"},
+      {"degree": "BA Economics (Hons)", "institution": "Presidency College, Kolkata", "year": "2003"}
+    ],
+    "profession": "Politician & Economist",
+    "experience": "8 years, Former State Minister",
+    "assets": "₹3.1 Crore",
+    "liabilities": "₹0.6 Crore",
+    "netAssets": "₹2.5 Crore",
+    "assetBreakdown": [
+      {"item": "Property (Kolkata)", "value": "₹2.2 Cr"},
+      {"item": "Investments", "value": "₹54 L"},
+      {"item": "Bank Deposits", "value": "₹36 L"}
+    ],
+    "criminalCases": 0,
+    "criminalDetails": [],
+    "winProbability": 72,
+    "previousWins": 1,
+    "electionHistory": [
+      {"year": 2024, "constituency": "Kolkata North", "result": "Won", "votes": 182000, "margin": 48000},
+      {"year": 2019, "constituency": "Kolkata North", "result": "Won", "votes": 168000, "margin": 38000}
+    ],
+    "attendance": 85,
+    "questionsRaised": 52,
+    "debatesParticipated": 28,
+    "keyIssues": ["Welfare schemes","Federalism","Women empowerment"],
+    "manifesto": [
+      "Expand Duare Sarkar to all West Bengal blocks",
+      "Lakshmi Bhandar scheme for 2 crore more women",
+      "Strengthen state fiscal autonomy",
+      "Women's entrepreneurship fund — ₹500 Cr",
+      "Protect Bengali culture and language rights"
+    ],
+    "projects": [
+      {"name": "Duare Sarkar Expansion", "budget": "₹420 Cr", "status": "Completed", "impact": "2.4 crore beneficiaries reached at doorstep"},
+      {"name": "Lakshmi Bhandar Enhancement", "budget": "₹680 Cr", "status": "In Progress", "impact": "92 lakh women currently receiving monthly cash"}
+    ],
+    "bio": "Former WB State Finance Minister. Instrumental in expanding Duare Sarkar schemes across Bengal. Economics background drives her policy approach.",
+    "aiSummary": "Ananya Chakraborty has the strongest legislative record among all candidates — 85% attendance, 52 questions raised. Two-time winner with growing margins. Economics expertise translates to detailed policy work. Highly credible candidate.",
+    "aiConfidence": "High",
+    "publicRating": 4.2,
+    "totalRatings": 3100,
+    "newsMentions": [
+      {"headline": "Minister Chakraborty's Duare Sarkar reaches 2.4 crore households", "source": "Ananda Bazar", "date": "2024-03-12", "sentiment": "positive"},
+      {"headline": "TMC MP raises 52 questions in Parliament winter session — highest in Bengal", "source": "Telegraph India", "date": "2024-02-04", "sentiment": "positive"}
+    ]
+  },
+  {
+    "id": "c007",
+    "name": "Ravi Shankar Das",
+    "party": "INC",
+    "partyId": "inc",
+    "constituency": "Kolkata North",
+    "state": "West Bengal",
+    "type": "Lok Sabha",
+    "age": 60,
+    "gender": "Male",
+    "education": "PhD History, Calcutta University",
+    "educationDetails": [
+      {"degree": "PhD – Modern Indian History", "institution": "Calcutta University", "year": "1991"},
+      {"degree": "MA History", "institution": "Calcutta University", "year": "1987"}
+    ],
+    "profession": "Historian & Politician",
+    "experience": "25 years, Former MP",
+    "assets": "₹5.8 Crore",
+    "liabilities": "₹0.9 Crore",
+    "netAssets": "₹4.9 Crore",
+    "assetBreakdown": [
+      {"item": "Ancestral Property (Bengal)", "value": "₹4.1 Cr"},
+      {"item": "Academic Investments", "value": "₹88 L"},
+      {"item": "Bank FDs", "value": "₹42 L"}
+    ],
+    "criminalCases": 0,
+    "criminalDetails": [],
+    "winProbability": 18,
+    "previousWins": 2,
+    "electionHistory": [
+      {"year": 2024, "constituency": "Kolkata North", "result": "Contested", "votes": 48000, "margin": -134000},
+      {"year": 2004, "constituency": "Howrah", "result": "Won", "votes": 148000, "margin": 22000},
+      {"year": 1999, "constituency": "Howrah", "result": "Won", "votes": 136000, "margin": 18000}
+    ],
+    "attendance": 71,
+    "questionsRaised": 22,
+    "debatesParticipated": 18,
+    "keyIssues": ["Secularism","Education","Minority rights"],
+    "manifesto": [
+      "Strengthen RTI and transparency laws",
+      "Minority scholarship fund expansion",
+      "Preserve Kolkata's cultural heritage",
+      "Universal pension for unorganised workers",
+      "Legal reforms for faster justice delivery"
+    ],
+    "projects": [
+      {"name": "Cultural Heritage Documentation", "budget": "₹4 Cr", "status": "Completed", "impact": "1,200 heritage sites documented in Bengal"},
+      {"name": "Minority Scholarship Program", "budget": "₹18 Cr", "status": "In Progress", "impact": "8,400 students receiving scholarships"}
+    ],
+    "bio": "Veteran Congress leader and historian-politician known for secular credentials. PhD in Indian history influences his policy positions on education and culture.",
+    "aiSummary": "Ravi Shankar Das is a veteran with strong ideological positioning but declining electoral relevance in Bengal. PhD background gives him depth on policy but his last win was 2004. Low win probability in current political climate.",
+    "aiConfidence": "High",
+    "publicRating": 3.3,
+    "totalRatings": 680,
+    "newsMentions": [
+      {"headline": "Das completes documentation of 1,200 Bengal heritage sites", "source": "Statesman", "date": "2024-02-28", "sentiment": "positive"}
+    ]
+  },
+  {
+    "id": "c008",
+    "name": "Meera Patil Deshmukh",
+    "party": "INC",
+    "partyId": "inc",
+    "constituency": "Mumbai South",
+    "state": "Maharashtra",
+    "type": "Lok Sabha",
+    "age": 46,
+    "gender": "Female",
+    "education": "MBBS, Grant Medical College",
+    "educationDetails": [
+      {"degree": "MBBS", "institution": "Grant Medical College, Mumbai", "year": "2002"},
+      {"degree": "MD – Community Medicine", "institution": "KEM Hospital, Mumbai", "year": "2006"}
+    ],
+    "profession": "Doctor & Politician",
+    "experience": "6 years in politics, Practicing physician",
+    "assets": "₹2.2 Crore",
+    "liabilities": "₹0.5 Crore",
+    "netAssets": "₹1.7 Crore",
+    "assetBreakdown": [
+      {"item": "Apartment (Dadar, Mumbai)", "value": "₹1.6 Cr"},
+      {"item": "Medical Equipment", "value": "₹28 L"},
+      {"item": "Bank Deposits", "value": "₹32 L"}
+    ],
+    "criminalCases": 0,
+    "criminalDetails": [],
+    "winProbability": 38,
+    "previousWins": 0,
+    "electionHistory": [
+      {"year": 2024, "constituency": "Mumbai South", "result": "Contested", "votes": 142000, "margin": -28000},
+      {"year": 2019, "constituency": "Mumbai South", "result": "Lost", "votes": 118000, "margin": -44000}
+    ],
+    "attendance": 0,
+    "questionsRaised": 0,
+    "debatesParticipated": 0,
+    "keyIssues": ["Healthcare","Housing","Coastal development"],
+    "manifesto": [
+      "Public health clinics in every Mumbai ward",
+      "Affordable housing for fishermen communities",
+      "Coastal conservation and fishing rights protection",
+      "Universal health insurance for BPL families",
+      "Mental health infrastructure in Mumbai"
+    ],
+    "projects": [
+      {"name": "Free Health Camp Network", "budget": "₹6 Cr", "status": "Completed", "impact": "42 free health camps, 28,000 patients treated"},
+      {"name": "Fisher Community Support", "budget": "₹3 Cr", "status": "In Progress", "impact": "1,200 fisherman families supported with equipment subsidies"}
+    ],
+    "bio": "Doctor-turned-politician focusing on public health infrastructure and affordable housing in Mumbai. Runs free health camps in fishing communities.",
+    "aiSummary": "Meera Patil Deshmukh brings unique MBBS + MD credentials to public health policy. Two consecutive election losses but improving margins. Her doctor profile resonates in post-pandemic Mumbai. Strongest on healthcare and coastal issues.",
+    "aiConfidence": "Medium",
+    "publicRating": 4.0,
+    "totalRatings": 1040,
+    "newsMentions": [
+      {"headline": "Dr Deshmukh's free health camps treat 28,000 Mumbaikars", "source": "Mumbai Mirror", "date": "2024-03-05", "sentiment": "positive"},
+      {"headline": "INC fields doctor candidate for Mumbai South amid healthcare focus", "source": "Maharashtra Times", "date": "2024-01-18", "sentiment": "neutral"}
+    ]
+  }
+]
