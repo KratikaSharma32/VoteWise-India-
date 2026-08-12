@@ -1,0 +1,122 @@
+[
+  {
+    "id": "n001",
+    "headline": "Election Commission announces schedule for state elections 2024",
+    "summary": "The Election Commission of India has formally announced the schedule for upcoming state assembly elections in four states. Polling will be conducted in three phases with results declared on the final day.",
+    "source": "Press Trust of India",
+    "sourceUrl": "https://eci.gov.in",
+    "date": "2024-03-20",
+    "category": "Election Updates",
+    "trustScore": 96,
+    "verified": true,
+    "aiSummary": "Official ECI announcement — high reliability. Covers polling dates, EVMs deployment, and MCC activation. Affects candidate campaign strategies immediately."
+  },
+  {
+    "id": "n002",
+    "headline": "New initiative for transparent political funding launched by watchdog",
+    "summary": "A leading transparency watchdog has released a new open-data portal tracking political donations above ₹20,000. The tool allows citizens to trace party income to donor entities.",
+    "source": "The Wire",
+    "sourceUrl": "https://thewire.in",
+    "date": "2024-03-18",
+    "category": "Government Announcements",
+    "trustScore": 84,
+    "verified": true,
+    "aiSummary": "Civil society initiative with data-backed reporting. Medium-high trust. Relevant for voters tracking party finance transparency."
+  },
+  {
+    "id": "n003",
+    "headline": "Fact check: Viral claim about EVM tampering is false, experts say",
+    "summary": "Multiple technology experts and the Election Commission have confirmed that claims of EVM manipulation circulating on social media are technically unfounded. EVMs are not connected to any network.",
+    "source": "Alt News",
+    "sourceUrl": "https://altnews.in",
+    "date": "2024-03-16",
+    "category": "Fact Checks",
+    "trustScore": 91,
+    "verified": true,
+    "aiSummary": "Independent fact-check with technical verification. High confidence. Important for combating misinformation about democratic processes."
+  },
+  {
+    "id": "n004",
+    "headline": "India's GDP growth forecast revised to 7.2% for FY2025 by RBI",
+    "summary": "The Reserve Bank of India has revised its GDP growth projection to 7.2% for the financial year 2024-25, citing strong domestic consumption and government capital expenditure as primary drivers.",
+    "source": "Economic Times",
+    "sourceUrl": "https://economictimes.com",
+    "date": "2024-03-14",
+    "category": "Economy",
+    "trustScore": 88,
+    "verified": true,
+    "aiSummary": "RBI official projection — high reliability. Strong growth figures may influence incumbent party's electoral narrative. Opposition may highlight inflation concerns."
+  },
+  {
+    "id": "n005",
+    "headline": "Parliamentary attendance report: 68 MPs below 50% threshold",
+    "summary": "The PRS Legislative Research's annual report reveals that 68 Members of Parliament attended fewer than half of all parliamentary sessions in the 2023-24 session, raising accountability questions.",
+    "source": "PRS India",
+    "sourceUrl": "https://prsindia.org",
+    "date": "2024-03-12",
+    "category": "Civic Awareness",
+    "trustScore": 95,
+    "verified": true,
+    "aiSummary": "High-quality legislative data from PRS — India's most respected Parliament tracker. Directly useful for voter research on candidate performance."
+  },
+  {
+    "id": "n006",
+    "headline": "PM Poshan scheme reaches 12 crore children across rural India",
+    "summary": "The government's flagship mid-day meal and nutrition programme now covers 12 crore children across 14 lakh schools in rural India, with an annual budget of ₹12,467 crore.",
+    "source": "Ministry of Education",
+    "sourceUrl": "https://education.gov.in",
+    "date": "2024-03-10",
+    "category": "Education",
+    "trustScore": 82,
+    "verified": true,
+    "aiSummary": "Government press release — verify with independent reports. Scheme scale is impressive but quality metrics (learning outcomes) need separate evaluation."
+  },
+  {
+    "id": "n007",
+    "headline": "Ayushman Bharat covers 55 crore beneficiaries, claims government report",
+    "summary": "The Union Health Ministry reports that 55 crore individuals are now covered under the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana, with 6.5 crore hospitalisations processed.",
+    "source": "Ministry of Health",
+    "sourceUrl": "https://nhp.gov.in",
+    "date": "2024-03-08",
+    "category": "Healthcare",
+    "trustScore": 78,
+    "verified": false,
+    "aiSummary": "Government claim — enrollment numbers are verified but quality-of-care reports show significant gaps. Independent audit recommended before accepting full claims."
+  },
+  {
+    "id": "n008",
+    "headline": "Infrastructure outlay at record ₹11.11 lakh crore in Union Budget 2024-25",
+    "summary": "The Union Budget 2024-25 has allocated a record ₹11.11 lakh crore for infrastructure development — a 33% increase from the previous year — focusing on roads, railways, ports and housing.",
+    "source": "Budget Documents, MoF",
+    "sourceUrl": "https://indiabudget.gov.in",
+    "date": "2024-02-01",
+    "category": "Infrastructure",
+    "trustScore": 97,
+    "verified": true,
+    "aiSummary": "Official budget document — highest trust rating. Record capex allocation. Key metric for evaluating government's infrastructure promises against actual delivery."
+  },
+  {
+    "id": "n009",
+    "headline": "India launches 5G in 700+ districts, rural coverage at 80% by 2025",
+    "summary": "The Department of Telecom announced 5G network launch across 700 districts with a target of 80% rural coverage by 2025. 13 telecom operators are participating in the rollout.",
+    "source": "Department of Telecom",
+    "sourceUrl": "https://dot.gov.in",
+    "date": "2024-02-18",
+    "category": "Technology",
+    "trustScore": 85,
+    "verified": true,
+    "aiSummary": "Official telecom ministry data. Urban 5G rollout is on track; rural targets are ambitious. Useful context for evaluating digital India election promises."
+  },
+  {
+    "id": "n010",
+    "headline": "How your vote can bring real change: A guide to Indian democracy",
+    "summary": "An explainer on the importance of informed voting, how constituency-level representation works, and why local elections often matter more than national ones for day-to-day governance.",
+    "source": "VoteWise India",
+    "sourceUrl": "#",
+    "date": "2024-03-01",
+    "category": "Civic Awareness",
+    "trustScore": 90,
+    "verified": true,
+    "aiSummary": "Educational civic content. Explains FPTP voting system, local vs national impact, and how to evaluate candidates on governance performance."
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "partyId": "bjp",
+    "party": "BJP",
+    "period": "2019-2024",
+    "overallScore": 71,
+    "promises": [
+      {
+        "id": "p1",
+        "promise": "Double farmer income by 2022",
+        "status": "partial",
+        "completionPct": 40,
+        "note": "Income grew but did not double; PM-KISAN provides ₹6000/year"
+      },
+      {
+        "id": "p2",
+        "promise": "Build 10 crore pucca houses under PM Awaas Yojana",
+        "status": "inprogress",
+        "completionPct": 72,
+        "note": "7.2 crore houses completed as of 2023"
+      },
+      {
+        "id": "p3",
+        "promise": "Create 2 crore jobs annually",
+        "status": "notcompleted",
+        "completionPct": 15,
+        "note": "Job creation fell short; unemployment hit multi-decade highs in 2018"
+      },
+      {
+        "id": "p4",
+        "promise": "Swachh Bharat - Build 12 crore toilets",
+        "status": "completed",
+        "completionPct": 100,
+        "note": "Over 11 crore toilets built; ODF status declared in 2019"
+      },
+      {
+        "id": "p5",
+        "promise": "100 Smart Cities Mission",
+        "status": "inprogress",
+        "completionPct": 65,
+        "note": "65 cities have ongoing smart infrastructure projects"
+      },
+      {
+        "id": "p6",
+        "promise": "Ayushman Bharat - 50 crore beneficiaries health cover",
+        "status": "completed",
+        "completionPct": 100,
+        "note": "World's largest health insurance scheme covers 55 crore people"
+      },
+      {
+        "id": "p7",
+        "promise": "Ujjwala Yojana - 8 crore free LPG connections",
+        "status": "completed",
+        "completionPct": 100,
+        "note": "9.5 crore connections provided, exceeding target"
+      },
+      {
+        "id": "p8",
+        "promise": "5G rollout across all districts",
+        "status": "inprogress",
+        "completionPct": 80,
+        "note": "5G launched in 700+ districts; rural rollout ongoing"
+      }
+    ]
+  },
+  {
+    "partyId": "inc",
+    "party": "INC",
+    "period": "2009-2014",
+    "overallScore": 58,
+    "promises": [
+      {
+        "id": "p1",
+        "promise": "Food Security Act - subsidised food for 67% population",
+        "status": "completed",
+        "completionPct": 100,
+        "note": "NFSA 2013 enacted, covering 81 crore beneficiaries"
+      },
+      {
+        "id": "p2",
+        "promise": "MGNREGA - 100 days of work guarantee",
+        "status": "completed",
+        "completionPct": 100,
+        "note": "Landmark legislation providing rural employment guarantee"
+      },
+      {
+        "id": "p3",
+        "promise": "RTI Act full implementation",
+        "status": "completed",
+        "completionPct": 100,
+        "note": "RTI Act 2005 operational with millions of applications"
+      },
+      {
+        "id": "p4",
+        "promise": "8% GDP growth consistently",
+        "status": "partial",
+        "completionPct": 50,
+        "note": "Growth averaged 6.7%; hit by global recession in 2008"
+      },
+      {
+        "id": "p5",
+        "promise": "Reduce inflation to manageable levels",
+        "status": "notcompleted",
+        "completionPct": 10,
+        "note": "Double-digit inflation (2009-2013) eroded household purchasing power"
+      },
+      {
+        "id": "p6",
+        "promise": "Aadhaar for all citizens",
+        "status": "inprogress",
+        "completionPct": 70,
+        "note": "Aadhaar launched, 70 crore enrolled before 2014 handover"
+      }
+    ]
+  },
+  {
+    "partyId": "aap",
+    "party": "AAP",
+    "period": "2015-2024",
+    "overallScore": 79,
+    "promises": [
+      {
+        "id": "p1",
+        "promise": "Free electricity up to 200 units monthly",
+        "status": "completed",
+        "completionPct": 100,
+        "note": "Free power for 47 lakh Delhi households using under 200 units"
+      },
+      {
+        "id": "p2",
+        "promise": "World-class government schools",
+        "status": "completed",
+        "completionPct": 100,
+        "note": "Delhi govt schools surpass private schools in board results"
+      },
+      {
+        "id": "p3",
+        "promise": "Mohalla Clinics - healthcare at doorstep",
+        "status": "completed",
+        "completionPct": 100,
+        "note": "Over 500 Mohalla clinics operational providing free treatment"
+      },
+      {
+        "id": "p4",
+        "promise": "Free bus rides for women",
+        "status": "completed",
+        "completionPct": 100,
+        "note": "Over 3 lakh women travel free on DTC buses daily"
+      },
+      {
+        "id": "p5",
+        "promise": "CCTV across all Delhi neighborhoods",
+        "status": "completed",
+        "completionPct": 100,
+        "note": "2.8 lakh CCTV cameras installed across Delhi"
+      },
+      {
+        "id": "p6",
+        "promise": "Clean Yamuna by 2025",
+        "status": "notcompleted",
+        "completionPct": 20,
+        "note": "Yamuna remains heavily polluted despite cleanup efforts"
+      },
+      {
+        "id": "p7",
+        "promise": "Pollution-free Delhi",
+        "status": "partial",
+        "completionPct": 35,
+        "note": "AQI improved marginally but Delhi still among world's most polluted"
+      }
+    ]
+  }
+]

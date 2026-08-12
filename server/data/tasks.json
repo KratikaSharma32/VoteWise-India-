@@ -1,0 +1,7 @@
+[
+  {"id":"t001","task":"Verify Candidate: Arjun Patel","type":"Candidate Verification","assignedBy":"Admin","dueDate":"25 May 2024","status":"Pending","assignedTo":"u003"},
+  {"id":"t002","task":"Update Constituency Data","type":"Data Update","assignedBy":"Admin","dueDate":"28 May 2024","status":"In Progress","assignedTo":"u003"},
+  {"id":"t003","task":"Review Profile Update","type":"Profile Review","assignedBy":"Admin","dueDate":"30 May 2024","status":"Pending","assignedTo":"u003"},
+  {"id":"t004","task":"Verify Candidate: Meera Iyer","type":"Candidate Verification","assignedBy":"Admin","dueDate":"01 Jun 2024","status":"Pending","assignedTo":"u003"},
+  {"id":"t005","task":"Manifesto Verification","type":"Document Check","assignedBy":"Admin","dueDate":"05 Jun 2024","status":"Completed","assignedTo":"u003"}
+]
