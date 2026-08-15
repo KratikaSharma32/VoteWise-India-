@@ -25,17 +25,29 @@
   ![Candidate Profile](./screenshots/candidate-profile.png)
 -->
 
-| Home Page | Candidates Explorer |
+| |  |
 |---|---|
-| _paste screenshot here_ | _paste screenshot here_ |
+ | Home Page |
+|<img width="1891" height="927" alt="image" src="https://github.com/user-attachments/assets/2f7c2d5f-9f61-4530-967d-0cd2a4609545" />
+ | Candidates Explorer |
+| <img width="1877" height="922" alt="image" src="https://github.com/user-attachments/assets/6ccd4112-d245-4747-a2b6-dd65256bd56b" />
+ |
 
-| Candidate Profile | Constituency Explorer |
+|  |  |
 |---|---|
-| _paste screenshot here_ | _paste screenshot here_ |
+|  Candidate Profile |
+|<img width="1887" height="936" alt="image" src="https://github.com/user-attachments/assets/f5ccc6af-9486-4086-8fc2-d6feef7a2820" />
+| Constituency Explorer |
+| <img width="1782" height="917" alt="image" src="https://github.com/user-attachments/assets/ae4a2025-0936-41bf-a82c-136a864048b8" />
+ |
 
-| Promise Tracker | Admin Dashboard |
+|                                                                                                                                                 |  |
 |---|---|
-| _paste screenshot here_ | _paste screenshot here_ |
+| Promise Tracker                                                                                                                                                  |
+|<img width="1816" height="915" alt="image" src="https://github.com/user-attachments/assets/cddd5c26-0ea9-4326-ada2-10c19b81b3af" />
+| Admin Dashboard |
+ |<img width="1902" height="925" alt="image" src="https://github.com/user-attachments/assets/91e05d53-be2e-439d-b9a1-025debda58b2" />
+|
 
 ---
 
